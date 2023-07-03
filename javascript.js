@@ -81,5 +81,21 @@ function getrateList(){
     }
 }
 
+var readmorebtn = document.getElementById('readmorebtn')
+var more = document.getElementById('more')
+function readMore(){
+    if(readmorebtn.innerHTML == 'read more...'){
+        more.style.display = 'block'
+        readmorebtn.innerHTML = 'read less...'
+    }else{
+        more.style.display = 'none'
+        readmorebtn.innerHTML = 'read more...'
+    }
+}
+
 getrateList()
 showReviews()
+
+loadmorebtn.addEventListener('click', loadmore) 
+readmorebtn.addEventListener('click', readMore)
+
