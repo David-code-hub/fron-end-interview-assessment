@@ -89,6 +89,10 @@ and (max-width : 480px) {
     .fs-xm-smaller{
         font-size: smaller!important;
     }
+    .bg-tripco-grey{
+        height:40vh;
+        background:#fff;
+    }
 }
  
 /* Smartphones (landscape) ----------- */
@@ -105,6 +109,10 @@ and (max-width : 320px) {
     }
     .fs-xm-smaller{
         font-size: smaller!important;
+    }
+    .bg-tripco-grey{
+        height:40vh;
+        background:#fff;
     }
 /* Styles */
 }
