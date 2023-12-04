@@ -27,3 +27,7 @@ Additional information:
 - We need to see both the source code and a demo (the demo can be something we build/run locally, just provide us with instructions on how to do so).
 - Please don’t just copy the look of the snippets on LekkeSlaap, we want to see your original design and creativity 🙂
   If you have any questions, please feel free to ask.
+
+## How I passed this part of the interviewing process?🫣
+
+Nothing too fancy—just rolled with plain HTML, CSS, and vanilla JS. My goal was to showcase that I can whip up good-looking, responsive websites using the basics, proving I know my stuff. And tossed in some JavaScript for functionality to finish it off.
