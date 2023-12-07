@@ -1,3 +1,5 @@
+![wallpaperflare-cropped_](https://github.com/David-code-hub/fron-end-interview-assessment/assets/55393687/6f7dfd78-cb97-446c-a841-3ebe1daeeaba)
+
 ## Front-end coding assessment
 _front-end coding assessment I had to complete for a job interview._
 
