@@ -3,7 +3,7 @@
 ## Front-end coding assessment
 _front-end coding assessment I had to complete for a job interview._
 
-## **THE BRIEF**
+## **THE BRIEF** 💼
 
 As a next step, we'd like you complete this short frontend task for us. This would just be for us to get a rough idea of your technical abilities. Please feel free to do it at your leisure and get back to us whenever you're ready.
 
